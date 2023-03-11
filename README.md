@@ -1,4 +1,4 @@
-# SDL_BGI Clock with sdlbgifast() and memory based image  
+# SDL_BGI Clock with sdlbgifast() with memory based image  
 
 This version of the Clock is using 1 second ticks but makes use of the faster SDL2 rendering.  
 I have also added and example of reading and image file (BMP) into RAM and rendering the memory based image to the screen on each loop cycle.
